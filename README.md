@@ -7,7 +7,7 @@ spectral response function domain and range. The retrieval method considers unkn
 
 ## Spectral response function dataset
 
-The dataset includes several folders, which contain data for different types of interest.
+The dataset includes several folders, which contain data for different purposes.
 
 **srf**
 :  A folder that contains the retrieved in-flight *relative* spectral response function and its spectral error covariance matrix for certain days of the year.
