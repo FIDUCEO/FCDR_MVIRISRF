@@ -1,3 +1,3 @@
 # Authors
 
-The creator of these data is [Ralf Quast](https://github.com/octoflar), [FastOpt GmbH](http://www.fastopt.de).
+The creators of this dataset are [Ralf Quast](https://github.com/octoflar) and Ralf Giering, [FastOpt GmbH](http://www.fastopt.de).
