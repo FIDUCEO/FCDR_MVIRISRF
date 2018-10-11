@@ -1,6 +1,6 @@
 # Dataset of relative MVIRI VIS spectral response functions
 
-Any folder named
+Each folder named
 
     srf_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_mmmmm_nn
     
