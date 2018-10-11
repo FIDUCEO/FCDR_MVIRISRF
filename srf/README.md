@@ -4,13 +4,11 @@ Any folder named
 
     srf_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_mmmmm_nn
     
-contains in-flight relative MVIRI VIS spectral response function retrieved for the Meteosat-'x' satellite. The first date `YYYYDDD` of the folder name designates the begin of the retrieval period, the second date designates its (exclusive) end. Each file
+contains the in-flight relative MVIRI VIS spectral response function retrieved for the Meteosat-'x' satellite. The first date `YYYYDDD` of the folder name designates the begin of the retrieval period, the second date designates its end. Each file
 
     srf_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn.dat
 
-included with such a folder provides the relative MVIRI VIS spectral response function for a certain day `ddd` of the year `yyyy`. 
-
-The simple text file format has been defined by EUMETSAT and FastOpt GmbH and starts with a header that provides basic information on the retrieval. For example: 
+included with such a folder provides the relative MVIRI VIS spectral response function for a certain day `ddd` of the year `yyyy`. The plain text format of the file has been defined by EUMETSAT and FastOpt GmbH. It starts with a header that provides basic information on the retrieval. For example: 
 
     &HEADER
       CAL_COEFFICIENT             =  0.181811E+001 ! W m-2 sr-1 µm-1
@@ -70,11 +68,11 @@ The first line after the header specifies a DOI. For example:
 
     10.5676/EUM_xxx_xx/xxx_METEOSAT/Vxxx
 
-The second line after the header specifies the number of spectral data records `N` and their spectral resolution `R` (µm). For example
+The second line after the header specifies the number of spectral wavelength samples `N` and the increment `R` between consecutive samples. For example, the line
 
     1011   0.100000E-002
 
-The third line after the header is the first line of the spectral data block. Each spectral data record (one per line) consists of several columns:
+states that there are `N = 1011` samples and the increment is `R = 0.001 µm`. The third line after the header is the first line of the spectral response function data block. The data block consists of several columns:
 
 **1st column**
 :  Spectral wavelength (µm)
@@ -85,7 +83,7 @@ The third line after the header is the first line of the spectral data block. Ea
 **3rd column**
 :  Uncertainty of the relative spectral response
 
-**4th and subsequent `N - 1` columns**
+**Subsequent `N` columns**
 :  Spectral error covariance matrix of the relative spectral response
 
-The difference between the spectral wavelenghts of successive records (or rows) is `R`. The difference between the spectral wavelengths associated with successive columns of the spectral error covariance matrix is `R`.
+The difference between the spectral wavelengths associated with successive columns of the spectral error covariance matrix is `R`, too.
