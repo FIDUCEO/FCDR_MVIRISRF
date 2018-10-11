@@ -8,7 +8,11 @@ contains the retrieved in-flight relative MVIRI VIS spectral response function o
 
     srf_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn.dat
 
-included with such a folder provides the relative MVIRI VIS spectral response function for a certain day `ddd` of the year `yyyy`. The plain text format of the file has been defined by EUMETSAT and FastOpt GmbH. It starts with a header that provides basic information on the retrieval. For example: 
+included with such a folder provides the relative MVIRI VIS spectral response function for a certain day `ddd` of the year `yyyy`.
+
+## File format
+
+The plain text format of the spectral response files has been defined by EUMETSAT and FastOpt GmbH. The files starts with a header that provides basic information on the retrieval. For example: 
 
     &HEADER
       CAL_COEFFICIENT             =  0.181811E+001 ! W m-2 sr-1 µm-1
