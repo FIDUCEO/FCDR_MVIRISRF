@@ -4,7 +4,7 @@ Any folder named
 
     srf_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_mmmmm_nn
     
-contains the retrieved in-flight relative MVIRI VIS spectral response function of the Meteosat-'x' satellite. The first date `YYYYDDD` of the folder name designates the begin of the retrieval period, the second date designates its end. Each file
+contains the retrieved *relative* in-flight MVIRI VIS spectral response function of the Meteosat-'x' satellite. The first date `YYYYDDD` of the folder name designates the begin of the retrieval period, the second date designates its end. Each file
 
     srf_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn.dat
 
