@@ -1,6 +1,6 @@
 # Relative spectral response functions (SRF)
 
-A folder named like
+Each folder named like
 
     srf_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_MMMMM_NN
     
@@ -83,7 +83,7 @@ The third line after the header is the first line of the spectral data block. Ea
 :  Relative spectral response
 
 **3rd column**
-:  Uncertainty of the relative spectrral response
+:  Uncertainty of the relative spectral response
 
 **4th and subsequent `N - 1` columns**
 :  Spectral error covariance matrix of the relative spectral response
