@@ -1,12 +1,12 @@
-# Relative spectral response functions (SRF)
+# Dataset of relative MVIRI VIS spectral response functions
 
-Each folder named like
+Any folder named
 
-    srf_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_MMMMM_NN
+    srf_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_mmmmm_nn
     
-contains the retrieved in-flight relative spectral response functions for each Meteosat satellite. The first date component of the folder name designates the begin of the retrieval period, while second date component designates its (exclusive) end. Each file
+contains in-flight relative MVIRI VIS spectral response function retrieved for the Meteosat-'x' satellite. The first date `YYYYDDD` of the folder name designates the begin of the retrieval period, the second date designates its (exclusive) end. Each file
 
-    srf_METx_yyyyddd_yyyyddd_vvvv-ttttttt_MMMMM_NN.dat
+    srf_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn.dat
 
 included with such a folder provides the relative MVIRI VIS spectral response function for a certain day `ddd` of the year `yyyy`. 
 
