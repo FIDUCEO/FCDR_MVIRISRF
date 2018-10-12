@@ -11,7 +11,7 @@ contains diagnostic residual data from the optimisation run for the Meteosat-'x'
 The plain text residual data files contain several columns of data separated by blank characters. 
 
 **Column 1**
-:  Uncertainty normalised digital count residual
+:  Uncertainty-normalised digital count residual
 
 **Column 2**
 :  Digital count residual
