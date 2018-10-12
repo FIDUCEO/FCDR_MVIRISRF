@@ -56,4 +56,4 @@ specifies the instrument gain factor for the first seven days of the retrieval p
       0.506500E+000  0.649228E+000  0.378393E-001
       ...
 
-The individual data blocks of `N` lines, each specifying the absolute spectral response ffor a single day of the retrieval period, are **not** separated by a blank line, i.e. the spectral response data are written continously.
+Note that the individual data blocks of `N` lines, each specifying the absolute spectral response for a single day of the retrieval period, are *not* separated by a blank line, i.e. the spectral response data are written continously.
