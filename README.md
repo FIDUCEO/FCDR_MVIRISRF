@@ -1,3 +1,5 @@
+![Error covariance matrix of a relative spectral response function](https://github.com/FIDUCEO/FCDR_MVIRISRF/wiki/resources/4-rcov.jpg)
+
 # In-flight MVIRI VIS spectral response functions
 
 How can the in-flight spectral response functions of a series of decades-old broad-band radiometers in Space be retrieved post-flight? This question is the clue to develop Climate Data Records from the Meteosat Visible and Infrared Imager (MVIRI) on board the Meteosat First Generation (MFG) of geostationary satellites, which had been acquiring Earth radiance images in the Visible (VIS) broad-band from 1977 to 2017.
