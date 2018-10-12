@@ -15,7 +15,7 @@ The dataset includes several folders, which contain data for different purposes.
 :  A folder that contains the retrieved *relative* in-flight spectral response function and its spectral error covariance matrix for certain days of the year. These data are needed for the processing of Fundamental and derived Thematic Climate Data Records. 
 
 **opt**
-:  A folder that contains the rerieved optimised forward model parameters and their error covariance matrix. These data are needed to *compute* the absolute or relative spectral response function and the associated spectral error covariance matrix as a function of time since launch, if the retrieved relative spectral response functions in **srf*** are not suitable.
+:  A folder that contains the rerieved optimised forward model parameters and their error covariance matrix. These data are needed to *compute* the absolute or relative spectral response function and the associated spectral error covariance matrix as a function of time since launch, if the retrieved relative spectral response functions in **srf** are not suitable.
 
 **dia**
 :  A folder that contains data to diagnose a retrieval. These data are needed for diagnostic purposes only.
