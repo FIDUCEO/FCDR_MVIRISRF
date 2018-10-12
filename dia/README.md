@@ -8,7 +8,7 @@ contains diagnostic residual data from the optimisation run for the Meteosat-'x'
 
 ## File format
 
-The plain text residual data files contain several columns of data separated by blank ` ` characters. 
+The plain text residual data files contain several columns of data separated by blank characters. 
 
 **Column 1**
 :  Uncertainty normalised digital count residual
