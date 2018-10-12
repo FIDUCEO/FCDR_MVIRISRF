@@ -4,7 +4,7 @@ Each file named
 
     res_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_mmmmm_nn.dat
     
-contains residual data from the optimisation run for the Meteosat-'x' satellite. The first date `YYYYDDD` of the folder name designates the begin of the retrieval period, the second date designates its end.
+contains residual data from the optimisation run for the Meteosat-'x' satellite. The first date `YYYYDDD` of the file name designates the begin of the retrieval period, the second date designates its end.
 
 ## File format
 
