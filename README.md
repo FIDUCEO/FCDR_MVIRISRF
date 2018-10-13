@@ -28,7 +28,7 @@ All dataset files are named according to the convention
 
     kkk_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn
 
-with individual components specified in the table below.  
+with individual naming components specified in the table below.  
 
 | **File name component** | **Significance**          |
 |-------------------------|---------------------------|
