@@ -41,7 +41,7 @@ with individual naming components specified in the table below.
 
 # Release versions
 
-Release versions are numbered by the year of the release followed by a two-digit number that enumerates the release within the release year. For example, version 1801 denotes the first release of the year 2018. Release versions have the version tag 'Release'.
+Release versions are numbered by the year of the release followed by a two-digit number that enumerates the release within the release year. For example, version 1801 denotes the first release of the year 2018. Release versions have the version tag *Release*.
 
 # Further reading
 
