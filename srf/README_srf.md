@@ -10,7 +10,7 @@ contains the retrieved *relative* in-flight MVIRI VIS spectral response function
 
 included with such a folder provides the relative MVIRI VIS spectral response function for a certain day `ddd` of the year `yyyy`.
 
-# File format
+## File format
 
 The plain text format of the spectral response files has been defined by EUMETSAT and FastOpt GmbH. The files starts with a header that provides basic information on the retrieval. For example: 
 
