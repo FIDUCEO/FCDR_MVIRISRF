@@ -80,4 +80,4 @@ The mapping of parameters to parameter index numbers (and vice versa) for the di
 | *&delta;*<sub>3</sub> | 6        | 5        | 5        | 5        | 6        | 5        | Bias (DCC ov ocean)                |
 | *&delta;*<sub>4</sub> | 7        | 6        | 6        | 6        | 7        | 6        | Bias (DCC ov land)                 |
 
-The parameter names refer to the nomenclature defined by Quast et al. (2018) *Climate Data Records from Meteosat First Generation: Retrieval of the in-Flight VIS Spectral Response*, [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
+The parameter names refer to the nomenclature defined by Quast et al. (2018, *Climate Data Records from Meteosat First Generation: Retrieval of the in-Flight VIS Spectral Response*, [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr)).
