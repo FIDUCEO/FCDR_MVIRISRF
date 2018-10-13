@@ -8,7 +8,7 @@ contains the retrieved *relative* in-flight MVIRI VIS spectral response function
 
     srf_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn.dat
 
-included with such a folder provides the relative MVIRI VIS spectral response function for a certain day `ddd` of the year `yyyy`.
+included with such a folder provides the relative MVIRI VIS spectral response function for a certain day of a year. A spectral response data file is provided every 45 days.
 
 ## File format
 
