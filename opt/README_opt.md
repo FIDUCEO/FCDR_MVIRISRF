@@ -1,4 +1,4 @@
-# Datasets of optimised forward model parameters.
+# Datasets of optimised forward model parameters
 
 Each file named
 
