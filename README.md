@@ -12,7 +12,7 @@ spectral response function domain and range (the figure above illustrates an exa
 The dataset includes several folders, which contain data for different purposes.
 
 **srf**
-:  A folder that contains the retrieved *relative* in-flight spectral response function and its spectral error covariance matrix for certain days of the year. These data are needed for the processing of Fundamental and derived Thematic Climate Data Records. *Most likely, you will need these data and nothing else from this repository.* 
+:  A folder that contains the retrieved *relative* in-flight spectral response function and its spectral error covariance matrix for certain days of the year. These data are needed for the processing of Fundamental and derived Thematic Climate Data Records. *Most likely, you will want these data and nothing else from this repository.* 
 
 **opt**
 :  A folder that contains the rerieved optimised forward model parameters and their error covariance matrix. These data are needed to *compute* the absolute or relative spectral response function and the associated spectral error covariance matrix as a function of time since launch, if the retrieved relative spectral response functions included with the **srf** folder are not suitable.
@@ -21,10 +21,6 @@ The dataset includes several folders, which contain data for different purposes.
 :  A folder that contains data to diagnose a retrieval. These data are needed for diagnostic purposes only.
 
 Each folder contains instructions that include further information on the contents.
-
-# Release versions
-
-Release versions are numbered by the year of the release followed by a two-digit number that enumerates the release within the release year. For example, version 1801 denotes the first release of the year 2018. Release versions have the version tag 'Release'.
 
 # Filename convention
 
@@ -38,10 +34,14 @@ with individual naming components specified in the table below.
 |-------------------------|-------------------------------|
 | `kkk`                   | Kind of data                  |
 | `x`                     | Meteosat satellite enumerator |
-| `yyyyddd`               | Year and day (of year) of begin and end of retrieval period |
+| `yyyyddd`               | Year and day (of year) of begin and end of retrieval or validity period |
 | `vvvv-ttttttt`          | Version and version tag       |
 | `mmmmm`                 | Model specifier               |
 | `nn`                    | Job enumerator                |
+
+# Release versions
+
+Release versions are numbered by the year of the release followed by a two-digit number that enumerates the release within the release year. For example, version 1801 denotes the first release of the year 2018. Release versions have the version tag 'Release'.
 
 # Further reading
 
