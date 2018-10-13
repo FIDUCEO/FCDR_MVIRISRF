@@ -39,7 +39,7 @@ with individual naming components specified in the table below.
 | `vvvv`                  | Version                   |
 | `ttttttt`               | Version tag               |
 | `mmmmm`                 | Model specifier           |
-| `nn`                    | Processing job identifier |
+| `nn`                    | Processing job enumerator |
 
 # Further reading
 
