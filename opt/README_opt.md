@@ -58,7 +58,7 @@ The Hessian matrix is specified in the same format.
 
 The mapping of parameters to parameter index numbers (and vice versa) for the different Meteosat satellites is defined in the Table below.
 
-| **Parameter**         | **MET7** | **MET6** | **MET5** | **MET4** | **MET3** | **MET2** | **Remark**                         |
+| **Parameter**         | **MET7** | **MET6** | **MET5** | **MET4** | **MET3** | **MET2** | **Significance**                   |
 |-----------------------|----------|----------|----------|----------|----------|----------|------------------------------------|
 | *&alpha;*<sub>1</sub> | 1        | 1        | 1        | 1        | 1        | 1        | Degradation rate (d<sup>-1</sup>)  |
 | *&alpha;*<sub>2</sub> | 2        | 2        | 2        | 2        | 2        | 2        | Degradation rate (µm<sup>-1</sup>) |
