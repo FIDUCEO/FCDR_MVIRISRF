@@ -22,7 +22,11 @@ The dataset includes several folders, which contain data for different purposes.
 
 Each folder contains instructions that include further information on the contents.
 
-# File name convention
+# Release versions
+
+Release versions are numbered by the year of the release followed by a two-digit number that enumerates the release within the release year. For example, version 1801 denotes the first release of the year 2018. Release versions have the version tag 'Release'.
+
+# Filename convention
 
 All dataset files are named according to the convention
 
