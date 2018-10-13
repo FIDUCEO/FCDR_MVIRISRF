@@ -22,6 +22,25 @@ The dataset includes several folders, which contain data for different purposes.
 
 Each folder contains instructions that include further information on the contents.
 
+# File name convention
+
+All dataset files are named according to the convention
+
+    kkk_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn
+
+with individual components specified in the table below.  
+
+| **File name component** | **Significance**          |
+|-------------------------|---------------------------|
+| `kkk`                   | Kind of data              |
+| `x`                     | Meteosat satellite number |
+| `yyyy`                  | Year                      |
+| `ddd`                   | Day of year               |
+| `vvvv`                  | Version                   |
+| `ttttttt`               | Version tag               |
+| `mmmmm`                 | Model specifier           |
+| `nn`                    | Processing job identifier |
+
 # Further reading
 
 Ralf Quast, Ralf Giering, Yves Govaerts, Frank Rüthrich, Rob Roebeling (2018). *Climate Data Records from Meteosat First Generation: Retrieval of the in-Flight VIS Spectral Response*. [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
