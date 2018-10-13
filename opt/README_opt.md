@@ -56,26 +56,28 @@ The Hessian matrix is specified in the same format.
 
 ## Mapping of parameters to parameter index numbers
 
-The mapping of parameters to parameter index numbers (and vice versa) for the different Meteosat satellites is defined in the Table below. 
+The mapping of parameters to parameter index numbers (and vice versa) for the different Meteosat satellites is defined in the Table below.
 
-| **Parameter**       | **MET7** | **MET6** | **MET5** | **MET4** | **MET3** | **MET2** |
-|---------------------|----------|----------|----------|----------|----------|----------|
-| &alpha;<sub>1</sub> | 1        | 1        | 1        | 1        | 1        | 1        |
-| &alpha;<sub>2</sub> | 2        | 2        | 2        | 2        | 2        | 2        |
-| &alpha;<sub>3</sub> | 3        | -        | -        | -        | 3        | -        |
-| a                   | 8        | 7        | 7        | 7        | 9        | 8        |
-| b                   | 9        | 8        | 8        | 8        | 10       | 9        |
-| &beta;<sub>1</sub>  | 10       | 9        | 9        | 9        | 11       | 10       |
-| &beta;<sub>2</sub>  | 11       | 10       | 10       | 10       | 12       | 11       |
-| &beta;<sub>3</sub>  | 12       | 11       | 11       | 11       | 13       | 12       |
-| &beta;<sub>4</sub>  | 13       | 12       | 12       | 12       | 14       | 13       |
-| &beta;<sub>5</sub>  | 14       | 13       | 13       | 13       | 15       | 14       |
-| &beta;<sub>6</sub>  | 15       | 14       | 14       | 14       | 16       | 15       |
-| &beta;<sub>7</sub>  | 16       | 15       | 15       | 15       | 17       | 16       |
-| &beta;<sub>8</sub>  | 17       | 16       | 16       | 16       | 18       | 17       |
-| &beta;<sub>9</sub>  | 18       | 17       | 17       | 17       | 19       | 18       |
-| &gamma;             | -        | -        | -        | -        | 8        | 7        |
-| &delta;<sub>1</sub> | 4        | 3        | 3        | 3        | 4        | 3        |
-| &delta;<sub>2</sub> | 5        | 4        | 4        | 4        | 5        | 4        |
-| &delta;<sub>3</sub> | 6        | 5        | 5        | 5        | 6        | 5        |
-| &delta;<sub>4</sub> | 7        | 6        | 6        | 6        | 7        | 6        |
+| **Parameter**         | **MET7** | **MET6** | **MET5** | **MET4** | **MET3** | **MET2** | **Remark**                         |
+|-----------------------|----------|----------|----------|----------|----------|----------|------------------------------------|
+| *&alpha;*<sub>1</sub> | 1        | 1        | 1        | 1        | 1        | 1        | Degradation rate (d<sup>-1</sup>)  |
+| *&alpha;*<sub>2</sub> | 2        | 2        | 2        | 2        | 2        | 2        | Degradation rate (µm<sup>-1</sup>) |
+| *&alpha;*<sub>3</sub> | 3        | -        | -        | -        | 3        | -        | Constant of proportionality        |
+| *a*                   | 8        | 7        | 7        | 7        | 9        | 8        | Lower bound (µm)                   |
+| *b*                   | 9        | 8        | 8        | 8        | 10       | 9        | Upper bound (µm)                   |
+| *&beta;*<sub>1</sub>  | 10       | 9        | 9        | 9        | 11       | 10       | Bernstein coefficient              |
+| *&beta;*<sub>2</sub>  | 11       | 10       | 10       | 10       | 12       | 11       | Bernstein coefficient              |
+| *&beta;*<sub>3</sub>  | 12       | 11       | 11       | 11       | 13       | 12       | Bernstein coefficient              |
+| *&beta;*<sub>4</sub>  | 13       | 12       | 12       | 12       | 14       | 13       | Bernstein coefficient              |
+| *&beta;*<sub>5</sub>  | 14       | 13       | 13       | 13       | 15       | 14       | Bernstein coefficient              |
+| *&beta;*<sub>6</sub>  | 15       | 14       | 14       | 14       | 16       | 15       | Bernstein coefficient              |
+| *&beta;*<sub>7</sub>  | 16       | 15       | 15       | 15       | 17       | 16       | Bernstein coefficient              |
+| *&beta;*<sub>8</sub>  | 17       | 16       | 16       | 16       | 18       | 17       | Bernstein coefficient              |
+| *&beta;*<sub>9</sub>  | 18       | 17       | 17       | 17       | 19       | 18       | Bernstein coefficient              |
+| *&gamma;*             | -        | -        | -        | -        | 8        | 7        | Amplification factor               |
+| *&delta;*<sub>1</sub> | 4        | 3        | 3        | 3        | 4        | 3        | Bias desert                        |
+| *&delta;*<sub>2</sub> | 5        | 4        | 4        | 4        | 5        | 4        | Bias ocean                         |
+| *&delta;*<sub>3</sub> | 6        | 5        | 5        | 5        | 6        | 5        | Bias DCC ov ocean                  |
+| *&delta;*<sub>4</sub> | 7        | 6        | 6        | 6        | 7        | 6        | Bias DCC ov land                   |
+
+The parameter names refer to the nomenclature defined by Quast et al. (2018, *Climate Data Records from Meteosat First Generation: Retrieval of the in-Flight VIS Spectral Response*, Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records").
