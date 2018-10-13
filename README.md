@@ -34,8 +34,7 @@ with individual naming components specified in the table below.
 |-------------------------|-------------------------------|
 | `kkk`                   | Kind of data                  |
 | `x`                     | Meteosat satellite enumerator |
-| `yyyy`                  | Year                          |
-| `ddd`                   | Day of year                   |
+| `yyyyddd`               | Year and day (of year) of begin and end of retrieval period |
 | `vvvv`                  | Version                       |
 | `ttttttt`               | Version tag                   |
 | `mmmmm`                 | Model specifier               |
