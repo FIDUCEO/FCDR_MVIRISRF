@@ -30,16 +30,16 @@ All dataset files are named according to the convention
 
 with individual naming components specified in the table below.  
 
-| **File name component** | **Significance**          |
-|-------------------------|---------------------------|
-| `kkk`                   | Kind of data              |
-| `x`                     | Meteosat satellite number |
-| `yyyy`                  | Year                      |
-| `ddd`                   | Day of year               |
-| `vvvv`                  | Version                   |
-| `ttttttt`               | Version tag               |
-| `mmmmm`                 | Model specifier           |
-| `nn`                    | Processing job enumerator |
+| **File name component** | **Significance**              |
+|-------------------------|-------------------------------|
+| `kkk`                   | Kind of data                  |
+| `x`                     | Meteosat satellite enumerator |
+| `yyyy`                  | Year                          |
+| `ddd`                   | Day of year                   |
+| `vvvv`                  | Version                       |
+| `ttttttt`               | Version tag                   |
+| `mmmmm`                 | Model specifier               |
+| `nn`                    | Job enumerator                |
 
 # Further reading
 
