@@ -26,4 +26,4 @@ Each folder contains instructions that include further information on the conten
 
 Ralf Quast, Ralf Giering, Yves Govaerts, Frank Rüthrich, Rob Roebeling (2018). *Climate Data Records from Meteosat First Generation: Retrieval of the in-Flight VIS Spectral Response*. [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
 
-Frank Rüthrich, Ralf Quast, Yves Govaerts, Viju O. John, Rob Roebeling, Emma Wooliams and Joerg Schulz (2018). *A Fundamental Climate Data Record for the Meteosat Visible and Infrared Imager (MVIRI)*. [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
+Frank Rüthrich, Ralf Quast, Yves Govaerts, Viju O. John, Rob Roebeling, Emma Wooliams and Jörg Schulz (2018). *A Fundamental Climate Data Record for the Meteosat Visible and Infrared Imager (MVIRI)*. [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
