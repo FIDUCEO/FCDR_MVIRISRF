@@ -75,9 +75,9 @@ The mapping of parameters to parameter index numbers (and vice versa) for the di
 | *&beta;*<sub>8</sub>  | 17       | 16       | 16       | 16       | 18       | 17       | Bernstein coefficient              |
 | *&beta;*<sub>9</sub>  | 18       | 17       | 17       | 17       | 19       | 18       | Bernstein coefficient              |
 | *&gamma;*             | -        | -        | -        | -        | 8        | 7        | Amplification factor               |
-| *&delta;*<sub>1</sub> | 4        | 3        | 3        | 3        | 4        | 3        | Bias desert                        |
-| *&delta;*<sub>2</sub> | 5        | 4        | 4        | 4        | 5        | 4        | Bias ocean                         |
-| *&delta;*<sub>3</sub> | 6        | 5        | 5        | 5        | 6        | 5        | Bias DCC ov ocean                  |
-| *&delta;*<sub>4</sub> | 7        | 6        | 6        | 6        | 7        | 6        | Bias DCC ov land                   |
+| *&delta;*<sub>1</sub> | 4        | 3        | 3        | 3        | 4        | 3        | Bias (desert)                      |
+| *&delta;*<sub>2</sub> | 5        | 4        | 4        | 4        | 5        | 4        | Bias (ocean)                       |
+| *&delta;*<sub>3</sub> | 6        | 5        | 5        | 5        | 6        | 5        | Bias (DCC ov ocean)                |
+| *&delta;*<sub>4</sub> | 7        | 6        | 6        | 6        | 7        | 6        | Bias (DCC ov land)                 |
 
 The parameter names refer to the nomenclature defined by Quast et al. (2018, *Climate Data Records from Meteosat First Generation: Retrieval of the in-Flight VIS Spectral Response*, Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records").
