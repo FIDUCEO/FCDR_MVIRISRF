@@ -2,9 +2,9 @@
 
 Each file named
 
-    opt_METx_YYYYDDD_YYYYDDD_vvvv-ttttttt_mmmmm_nn.dat
+    opt_METx_yyyyddd_yyyyddd_vvvv-ttttttt_mmmmm_nn.dat
     
-contains contains the optimised forward model parameters from the optimisation run for the Meteosat-`x` satellite. The first date `YYYYDDD` of the file name designates the begin of the retrieval period, the second date designates its end.
+contains contains the optimised forward model parameters from the optimisation run for the Meteosat-`x` satellite. The first date `yyyyddd` of the file name designates the begin of the retrieval period, the second date designates its end.
 
 ## File format
 
