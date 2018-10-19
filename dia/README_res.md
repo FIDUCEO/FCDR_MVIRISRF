@@ -41,7 +41,7 @@ The plain text residual data files contain several columns of data separated by 
 :  Uncertainty of residual digital count number due to errors in pixel extraction process
 
 **Column 11**
-:  Uncertainty of residual digital count number due to errors in radiativr transfer modelling
+:  Uncertainty of residual digital count number due to errors in radiative transfer modelling
 
 **Column 12**
 :  Sun zenith angle (degree)
