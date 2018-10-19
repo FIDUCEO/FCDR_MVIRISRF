@@ -1,4 +1,4 @@
-![Error covariance matrix of a relative spectral response function](https://github.com/FIDUCEO/FCDR_MVIRISRF/wiki/resources/4-rcov.jpg)
+![Error covariance matrix of a relative spectral response function](https://github.com/FIDUCEO/FCDR_MVIRISRF/wiki/resources/7-rcov.jpg)
 
 # Synopsis
 
