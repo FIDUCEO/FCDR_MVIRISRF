@@ -1,7 +1,7 @@
 <img alt="Error covariance matrix of a relative spectral response function"
         src="https://github.com/FIDUCEO/FCDR_MVIRISRF/wiki/resources/7-rcov.jpg"
         style="display:block; margin:auto"
-        title="Error covariance matrix of a relative spectral response function"> 
+        title="Example of an error covariance matrix of a relative spectral response function"> 
         
 # Synopsis
 
