@@ -11,10 +11,10 @@ contains residual data from the optimisation run for the Meteosat-`x` satellite.
 The plain text residual data files contain several columns of data separated by blank characters. 
 
 **Column 1**
-:  Uncertainty-normalised digital count residual
+:  Uncertainty-normalised digital count residual (a zero value indicates a rejected datum) 
 
 **Column 2**
-:  Digital count residual
+:  Digital count residual (a zero value indicates a rejected datum)
 
 **Column 3**
 :  Time of observation (day since launch)
