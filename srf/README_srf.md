@@ -78,11 +78,11 @@ The second line after the header specifies the number of spectral wavelength sam
 
 states that there are `N = 1011` samples and the increment is `R = 0.001 µm`. The third line after the header is the first line of the spectral response function data block. The data block consists of several columns:
 
-| Column                | Description                                                 |
-|-----------------------|-------------------------------------------------------------|
-| 1                     | Spectral wavelength (µm)                                    |
-| 2                     | Relative spectral response                                  |
-| 3                     | Uncertainty of the relative spectral response               |
-| Remaining `N` columns | Spectral error covariance of the relative spectral response |
+| Column                | Description                                              |
+|-----------------------|----------------------------------------------------------|
+| 1                     | Spectral wavelength (µm)                                 |
+| 2                     | Relative spectral response                               |
+| 3                     | Uncertainty of the relative spectral response            |
+| Remaining `N` columns | Columns of the relative spectral error covariance matrix |
 
 The difference between the spectral wavelengths associated with successive columns of the spectral error covariance matrix is `R`, too.
