@@ -12,7 +12,7 @@ This dataset repository is the result of a new metrological sound method for ret
 
 # Getting started
 
-The [FCDR_MVIRISRF](https://github.com/FIDUCEO/FCDR_MVIRISRF) dataset is a supplement to the FIDUCEO MVIRI VIS Fundamental Climate Data Record. It includes several folders, which contain spectral response data for different purposes.
+The [FIDUCEO in-flight MVIRI VIS spectral response function dataset](https://github.com/FIDUCEO/FCDR_MVIRISRF) dataset is a supplement to the FIDUCEO MVIRI VIS Fundamental Climate Data Record. It includes several folders, which contain spectral response data for different purposes.
 
 | Folder | Description |
 |--------|-------------|
@@ -20,7 +20,7 @@ The [FCDR_MVIRISRF](https://github.com/FIDUCEO/FCDR_MVIRISRF) dataset is a suppl
 | [opt](https://github.com/FIDUCEO/FCDR_MVIRISRF/tree/master/opt) | Contains the retrieved optimised forward model parameters and their error covariance matrix. These data are needed to compute the absolute or relative spectral response function and the associated spectral error covariance matrix as a function of time since launch, if the retrieved relative spectral response functions are not suitable |
 | [dia](https://github.com/FIDUCEO/FCDR_MVIRISRF/tree/master/dia) | Contains data to diagnose a retrieval. These data are needed for diagnostic purposes only |
 
-Each folder contains specific explanations of the contents. You may want to consult the [FCDR_MVIRISRF wiki](https://github.com/FIDUCEO/FCDR_MVIRISRF/wiki) for additional information.
+Each folder contains specific explanations of the contents. You may want to consult the [FIDUCEO in-flight MVIRI VIS spectral response function wiki](https://github.com/FIDUCEO/FCDR_MVIRISRF/wiki) for additional information.
 
 
 # Release versions
