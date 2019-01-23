@@ -1,7 +1,7 @@
-<img alt="Error covariance matrix of a relative spectral response function"
-        src="https://github.com/FIDUCEO/FCDR_MVIRISRF/wiki/resources/7-rcov.jpg"
+<img alt="METEOSAT MVIRI spectral response functions"
+        src="https://github.com/FIDUCEO/FCDR_MVIRISRF/blob/master/graphicalabstract.png"
         style="display:block; margin:auto"
-        title="Example of an error covariance matrix of a relative spectral response function"> 
+        title="METEOSAT MVIRI spectral response functions"> 
         
 # Synopsis
 
