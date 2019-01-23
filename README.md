@@ -43,7 +43,7 @@ Release versions are numbered by the year of the release followed by a two-digit
 
 # Further reading
 
-Yves Govaerts, Frank Rüthrich, Viju Joh, Ralf Quast (2018).
+Yves Govaerts, Frank Rüthrich, Viju John, Ralf Quast (2018).
 *Climate Data Records from Meteosat First Generation Part I: Simulation of Accurate Top-of-Atmosphere Spectral radiance over Pseudo-Invariant Calibration Sites for the Retrieval of the In-Flight Visible Spectral Response*.
 [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
 [DOI 10.3390/rs10121959](https://doi.org/10.3390/rs10121959).
