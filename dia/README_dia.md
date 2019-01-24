@@ -20,7 +20,7 @@ After being unzipped, the plain text spectral response data files contain the in
       TARGET_COUNT_SEA    = 2399
       TARGET_COUNT_DCC    = 287
       TARGET_COUNT_TOTAL  = 3137
-      VERSION_INVERSION   = 1801-RC00004
+      VERSION_INVERSION   = 1801-Release
       NUM_DAYS            = 927
       MIN_DAY             =  159.5
       MAX_DAY             = 1085.5

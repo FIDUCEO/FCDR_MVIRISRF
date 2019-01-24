@@ -63,7 +63,7 @@ The plain text format of the spectral response files has been defined by EUMETSA
       VERSION_SIMULATION_DESERT   = V035
       VERSION_SIMULATION_SEA      = V000
       VERSION_SIMULATION_DCC      = V007
-      VERSION_INVERSION           = 1801-RC00004
+      VERSION_INVERSION           = 1801-Release
       JOB_ID                      = 10
       JOB_ID_LONG                 = job-met07-all-10.nml
     /
