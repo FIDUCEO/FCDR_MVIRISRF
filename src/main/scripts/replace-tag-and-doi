@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#
+# usage: replace-tag-and-doi file ... 
+set -e
+
+bindir="$(dirname "${0}")"
+
+for filename in "${@}"; do
+    sed -f ${bindir}/release.sed -i .backup ${filename}
+done

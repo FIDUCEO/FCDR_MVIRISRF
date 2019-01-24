@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#
+# usage: git-rename tag file ... 
+set -e
+
+tag=${1}
+
+for filename in "${@}"; do
+    git mv ${filename} ${filename/"${tag}"/"Release"}
+done
