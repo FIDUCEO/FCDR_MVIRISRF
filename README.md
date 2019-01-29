@@ -40,6 +40,8 @@ Release versions are numbered by the year of the release followed by a two-digit
 
 # Further reading
 
+Ralf Quast (2019). [*Easy-peasy: spectrally degrading spectral response functions*](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions) (accessed 29 January 2019).
+
 Yves Govaerts, Frank Rüthrich, Viju John, Ralf Quast (2018).
 *Climate Data Records from Meteosat First Generation Part I: Simulation of Accurate Top-of-Atmosphere Spectral radiance over Pseudo-Invariant Calibration Sites for the Retrieval of the In-Flight Visible Spectral Response*.
 [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
