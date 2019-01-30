@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#
+# usage: rename [TAG] [FILE]...
+# Replaces the version tag [TAG] in the names of the files [FILE]... with "Release".
+set -e
+
+if [ $# -lt 2 ]; then
+    echo "usage: $0 [TAG] [FILE]..."
+    exit 1
+fi
+
+tag=${1}
+
+for filename in "${@}"; do
+    git mv ${filename} ${filename/"${tag}"/"Release"}
+done
