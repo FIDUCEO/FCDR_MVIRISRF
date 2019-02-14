@@ -23,14 +23,14 @@ Each folder contains specific explanations of the contents. All dataset files ar
 
 with individual naming components specified in the table below.  
 
-| **Filename component** | **Significance**                 |
-|------------------------|----------------------------------|
-| `kkk`                  | Kind of data                     |
-| `x`                    | Meteosat satellite enumerator    |
-| `yyyyddd`              | Year and day (of year) of begin and end of retrieval or validity period |
-| `vvvv-ttttttt`         | Software version and version tag |
-| `mmmmm`                | Model specifier                  |
-| `nn`                   | Job enumerator                   |
+| Filename component | Significance                     |
+|--------------------|----------------------------------|
+| `kkk`              | Kind of data                     |
+| `x`                | Meteosat satellite enumerator    |
+| `yyyyddd`          | Year and day (of year) of begin and end of retrieval or validity period |
+| `vvvv-ttttttt`     | Software version and version tag |
+| `mmmmm`            | Model specifier                  |
+| `nn`               | Job enumerator                   |
 
 
 # Release versions
