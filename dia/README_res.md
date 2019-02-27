@@ -27,4 +27,4 @@ The plain text residual data files contain several columns of data separated by 
 | 13     | View zenith angle (degree)                                                              |                                        |
 | 14     | Name of matchup data file                                                               |                                        |
 
-Variable names refer to the nomenclature defined by Quast et al. (2018, *Climate Data Records from Meteosat First Generation: Retrieval of the in-Flight VIS Spectral Response*, [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr)).
+Variable names refer to the nomenclature defined by Quast et al. (2018, [DOI 10.3390/rs11050480](https://doi.org/10.3390/rs11050480)).
