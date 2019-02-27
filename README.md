@@ -40,8 +40,6 @@ Release versions are numbered by the year of the release followed by a two-digit
 
 # Further reading
 
-Ralf Quast (2019). [Easy-peasy: spectrally degrading spectral response functions](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions). [FIDUCEO Blogs](http://www.fiduceo.eu/blogs).
-
 Yves Govaerts, Frank Rüthrich, Viju John, Ralf Quast (2018).
 *Climate Data Records from Meteosat First Generation Part I: Simulation of Accurate Top-of-Atmosphere Spectral radiance over Pseudo-Invariant Calibration Sites for the Retrieval of the In-Flight Visible Spectral Response*.
 [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
@@ -55,3 +53,5 @@ Ralf Quast, Ralf Giering, Yves Govaerts, Frank Rüthrich, Rob Roebeling (2019).
 Frank Rüthrich, Ralf Quast, Yves Govaerts, Viju John, Rob Roebeling, Emma Wooliams and Jörg Schulz (2019).
 *Climate Data Records from Meteosat First Generation Part III: Recalibration and Uncertainty Tracing of the Visible Channel on Meteosat 2-7 Using Reconstructed, Spectrally Changing Response Functions*.
 [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
+
+Ralf Quast. [FIDUCEO Blogs](http://www.fiduceo.eu/blogs) 28-01-2019: *[Easy-peasy: spectrally degrading spectral response functions](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions)* (accessed on 27 February 2019)
