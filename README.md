@@ -54,4 +54,4 @@ Frank Rüthrich, Ralf Quast, Yves Govaerts, Viju John, Rob Roebeling, Emma Wooli
 *Climate Data Records from Meteosat First Generation Part III: Recalibration and Uncertainty Tracing of the Visible Channel on Meteosat 2-7 Using Reconstructed, Spectrally Changing Response Functions*.
 [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
 
-Ralf Quast. [FIDUCEO Blogs](http://www.fiduceo.eu/blogs) 28-01-2019: *[Easy-peasy: spectrally degrading spectral response functions](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions)* (accessed on 27 February 2019)
+Ralf Quast. [FIDUCEO Blogs](http://www.fiduceo.eu/blogs) 28-01-2019: *[Easy-peasy: spectrally degrading spectral response functions](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions)* (accessed on 27 February 2019).
