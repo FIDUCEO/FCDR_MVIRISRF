@@ -50,6 +50,7 @@ Yves Govaerts, Frank Rüthrich, Viju John, Ralf Quast (2018).
 Ralf Quast, Ralf Giering, Yves Govaerts, Frank Rüthrich, Rob Roebeling (2019).
 *Climate Data Records from Meteosat First Generation Part II: Retrieval of the In-Flight Visible Spectral Response*.
 [Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
+[DOI 10.3390/rs11050480](https://doi.org/10.3390/rs11050480).
 
 Frank Rüthrich, Ralf Quast, Yves Govaerts, Viju John, Rob Roebeling, Emma Wooliams and Jörg Schulz (2019).
 *Climate Data Records from Meteosat First Generation Part III: Recalibration and Uncertainty Tracing of the Visible Channel on Meteosat 2-7 Using Reconstructed, Spectrally Changing Response Functions*.
