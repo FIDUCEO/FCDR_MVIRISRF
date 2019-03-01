@@ -11,6 +11,6 @@ fi
 
 tag=${1}
 
-for filename in "${@}"; do
+for filename in "${@:2}"; do
     git mv ${filename} ${filename/"${tag}"/"Release"}
 done
