@@ -27,4 +27,4 @@ The plain text residual data files contain several columns of data separated by 
 | 13     | View zenith angle (degree)                                                              |                                        |
 | 14     | Name of matchup data file                                                               |                                        |
 
-Variable names refer to the nomenclature defined by Quast et al. (2019, [DOI 10.3390/rs11050480](https://doi.org/10.3390/rs11050480)).
+Variable names refer to the nomenclature defined by Quast et al. (2019, <https://doi.org/10.3390/rs11050480>).
