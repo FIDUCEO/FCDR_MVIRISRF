@@ -39,19 +39,11 @@ Release versions are numbered by the year of dataset creation followed by a two-
 
 # Further reading
 
-Yves Govaerts, Frank Rüthrich, Viju John, Ralf Quast (2018).
-*Climate Data Records from Meteosat First Generation Part I: Simulation of Accurate Top-of-Atmosphere Spectral radiance over Pseudo-Invariant Calibration Sites for the Retrieval of the In-Flight Visible Spectral Response*.
-[Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
-[DOI 10.3390/rs10121959](https://doi.org/10.3390/rs10121959).
+Govaerts, Y.M.; Rüthrich, F.; John, V.O.; Quast, R. Climate Data Records from Meteosat First Generation Part I: Simulation of Accurate Top-of-Atmosphere Spectral Radiance over Pseudo-Invariant Calibration Sites for the Retrieval of the In-Flight Visible Spectral Response. *Remote Sens.* **2018**, *10*, 1959; <https://doi.org/10.3390/rs10121959)>.
 
-Ralf Quast, Ralf Giering, Yves Govaerts, Frank Rüthrich, Rob Roebeling (2019).
-*Climate Data Records from Meteosat First Generation Part II: Retrieval of the In-Flight Visible Spectral Response*.
-[Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
-[DOI 10.3390/rs11050480](https://doi.org/10.3390/rs11050480).
+Quast, R.; Giering, R.; Govaerts, Y.; Rüthrich, F.; Roebeling, R. Climate Data Records from Meteosat First Generation Part II: Retrieval of the In-Flight Visible Spectral Response. *Remote Sens.* **2019**, *11*, 480;
+<https://doi.org/10.3390/rs11050480>.
 
-Frank Rüthrich, Viju John, Rob Roebeling, Ralf Quast, Yves Govaerts, Emma Wooliams and Jörg Schulz (2019).
-*Climate Data Records from Meteosat First Generation Part III: Recalibration and Uncertainty Tracing of the Visible Channel on Meteosat 2-7 Using Reconstructed, Spectrally Changing Response Functions*.
-[Remote Sensing Special Issue "Assessment of Quality and Usability of Climate Data Records"](https://www.mdpi.com/journal/remotesensing/special_issues/assessment_cdr).
-[DOI 10.3390/rs11101165](https://doi.org/10.3390/rs11101165)
+Rüthrich, F.; John, V.O.; Roebeling, R.A.; Quast, R.; Govaerts, Y.; Woolliams, E.R.; Schulz, J. Climate Data Records from Meteosat First Generation Part III: Recalibration and Uncertainty Tracing of the Visible Channel on Meteosat-2–7 Using Reconstructed, Spectrally Changing Response Functions. *Remote Sens.* **2019**, *11*, 1165; <https://doi.org/10.3390/rs11101165>.
 
-Ralf Quast (FIDUCEO Blogs 28-01-2019). [Easy-peasy: spectrally degrading spectral response functions](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions).
+Quast, R. Easy-peasy: spectrally degrading spectral response functions. [FIDUCEO Blogs 28-01-2019](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions).
