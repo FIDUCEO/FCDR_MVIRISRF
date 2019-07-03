@@ -9,7 +9,7 @@ This dataset repository is the result of a new metrological sound method for ret
 
 # Getting started
 
-The [FIDUCEO in-flight MVIRI VIS spectral response function dataset](https://github.com/FIDUCEO/FCDR_MVIRISRF) dataset is a supplement to the FIDUCEO MVIRI VIS Fundamental Climate Data Record. It includes several folders, which contain spectral response data for different purposes.
+The [FIDUCEO in-flight MVIRI VIS spectral response function dataset](https://github.com/FIDUCEO/FCDR_MVIRISRF) is a supplement to the FIDUCEO MVIRI VIS Fundamental Climate Data Record. It includes several folders, which contain spectral response data for different purposes.
 
 | Folder | Description |
 |--------|-------------|
