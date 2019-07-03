@@ -80,4 +80,4 @@ The mapping of parameters to parameter index numbers (and vice versa) for the di
 | *&delta;*<sub>3</sub> | 6        | 5        | 5        | 5        | 6        | 5        | Bias (DCC over ocean)                       |
 | *&delta;*<sub>4</sub> | 7        | 6        | 6        | 6        | 7        | 6        | Bias (DCC over land)                         |
 
-All parameters refer to the forward model and nomenclature defined by Quast et al. (2019, [DOI 10.3390/rs11050480](https://doi.org/10.3390/rs11050480)).
+All parameters refer to the forward model and nomenclature defined by Quast et al. (2019, <https://doi.org/10.3390/rs11050480>).
