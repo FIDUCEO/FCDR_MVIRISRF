@@ -68,9 +68,9 @@ The plain text format of the spectral response files has been defined by EUMETSA
       JOB_ID_LONG                 = job-met07-all-10.nml
     /
 
-The first line after the header specifies a DOI. For example:
+The first line after the header specifies a UUID which identifies the optimisation run. For example:
 
-    10.5676/EUM_xxx_xx/xxx_METEOSAT/Vxxx
+    486DB2AF-C741-41DC-BF60-06DD4A217FB2
 
 The second line after the header specifies the number of spectral wavelength samples `N` and the increment `R` between consecutive samples. For example, the line
 
