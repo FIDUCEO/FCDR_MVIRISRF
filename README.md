@@ -46,4 +46,4 @@ Quast, R.; Giering, R.; Govaerts, Y.; Rüthrich, F.; Roebeling, R. Climate Data 
 
 Rüthrich, F.; John, V.O.; Roebeling, R.A.; Quast, R.; Govaerts, Y.; Woolliams, E.R.; Schulz, J. Climate Data Records from Meteosat First Generation Part III: Recalibration and Uncertainty Tracing of the Visible Channel on Meteosat-2–7 Using Reconstructed, Spectrally Changing Response Functions. *Remote Sens.* **2019**, *11*, 1165; <https://doi.org/10.3390/rs11101165>.
 
-Quast, R. Easy-peasy: spectrally degrading spectral response functions. [FIDUCEO Blogs 28-01-2019](http://www.fiduceo.eu/content/easy-peasy-spectrally-degrading-spectral-response-functions).
+Quast, R. Easy-peasy: spectrally degrading spectral response functions. [FIDUCEO Blogs 28-01-2019](https://research.reading.ac.uk/fiduceo/easy-peasy-spectrally-degrading-spectral-response-functions/).
